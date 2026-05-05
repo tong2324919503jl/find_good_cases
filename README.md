@@ -1,2 +1,4 @@
 # find_good_cases
-To find good cases from some cases
+我们现在的任务是要去测试一些我们的数据在其他模型上运行的成果，然后提取出一些case(我们跑的比较好的和他们跑的没我们好的，进行case分析)
+
+现在我们有的数据信息如下
